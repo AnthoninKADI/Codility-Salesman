@@ -154,6 +154,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Exo1.cpp" />
+    <ClCompile Include="Exo2.cpp" />
+    <ClCompile Include="Exo3.cpp" />
+    <ClCompile Include="Exo4.cpp" />
+    <ClCompile Include="Exo5.cpp" />
+    <ClCompile Include="Exo6.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Exo1.h" />
     <ClCompile Include="Exo2.h" />
@@ -161,6 +167,7 @@
     <ClCompile Include="Exo4.h" />
     <ClCompile Include="Exo5.h" />
     <ClCompile Include="Exo6.h" />
+    <ClCompile Include="Salesman.cpp" />
     <ClCompile Include="Salesman.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
