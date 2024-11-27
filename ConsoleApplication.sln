@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CodilityAndSalesMan", "CodilityAndSalesMan\CodilityAndSalesMan.vcxproj", "{E174310B-3410-46D4-B178-CDAB9C16BDC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Debug|Win32.Build.0 = Debug|Win32
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Debug|x64.ActiveCfg = Debug|x64
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Debug|x64.Build.0 = Debug|x64
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Release|Win32.ActiveCfg = Release|Win32
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Release|Win32.Build.0 = Release|Win32
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Release|x64.ActiveCfg = Release|x64
+		{E174310B-3410-46D4-B178-CDAB9C16BDC2}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
